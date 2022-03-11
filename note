@@ -1,0 +1,15 @@
+How login system work
+1. all user data
+http://localhost:5000/api/auth/users
+2. Register
+3. login
+4. user info
+
+
+> we store the password in encrpted form to do this we use packed called bcryptjs
+> when someone login through it's email and password generate token for the user from config.js file
+    -- token based authentication
+
+
+
+
